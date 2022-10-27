@@ -1,2 +1,3 @@
 # Games
-My frist repository
+Meu primeiro repositorio
+Eu sou apenas um iniciante em programação e busco aprender esse conteudo.
